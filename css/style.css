@@ -415,8 +415,14 @@ html {
   }
   
   .swiper {
+	display: flex;
+
 	width: 1348px;
 	height: 372px;
+  }
+
+  .swiper-wrapper {
+	display: flex;
   }
 
   .slider {
