@@ -1029,7 +1029,6 @@ input[type="checkbox"] {
   @media (max-width: 1023px) {
 	body {
 		width: 100%;
-		border: 5px solid red;
 	}
 
 	.graphic {
@@ -1043,7 +1042,6 @@ input[type="checkbox"] {
   @media (max-width: 767px) {
 	body {
 		width: 100%;
-		border: 5px solid navy;
 	}
 
 	.main {
@@ -1060,13 +1058,12 @@ input[type="checkbox"] {
 	}
 
 	.header {
-		border: 1px solid red;
+
 		width: 320px;
 	}
 	
 	.course {
 		width: 340px;
-		border: 1px solid red;
 		margin-inline: auto;
 	}
 
@@ -1202,20 +1199,8 @@ input[type="checkbox"] {
 
   
 
-  @media (max-width: 480px) {
-	.box {
-	  background: red;
-	  width: 100%;
-	  font-size: 14px;
-	}
 
-   .about__container {
-	width: 320px;
-	border: 1px solid yellow;
-   }
 
- 
-  }
 
 
 
